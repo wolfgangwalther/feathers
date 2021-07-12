@@ -3,6 +3,28 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [5.0.0-pre.5](https://github.com/feathersjs/feathers/compare/v5.0.0-pre.4...v5.0.0-pre.5) (2021-06-23)
+
+
+### Bug Fixes
+
+* **core:** Add list of protected methods that can not be used for custom methods ([#2390](https://github.com/feathersjs/feathers/issues/2390)) ([6584a21](https://github.com/feathersjs/feathers/commit/6584a216e5a7d5f2a45822be6bfcb91c35cc2252))
+
+
+
+
+
+# [5.0.0-pre.4](https://github.com/feathersjs/feathers/compare/v5.0.0-pre.3...v5.0.0-pre.4) (2021-05-13)
+
+
+### Bug Fixes
+
+* **typescript:** Move Paginated type back for better compatibility ([#2350](https://github.com/feathersjs/feathers/issues/2350)) ([2917d05](https://github.com/feathersjs/feathers/commit/2917d05fffb4716d3c4cdaa5ac6a1aee0972e8a6))
+
+
+
+
+
 # [5.0.0-pre.3](https://github.com/feathersjs/feathers/compare/v5.0.0-pre.2...v5.0.0-pre.3) (2021-04-21)
 
 
